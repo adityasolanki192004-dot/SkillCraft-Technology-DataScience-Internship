@@ -15,7 +15,7 @@ Tools:
 Result:
 Successfully created a bar chart for gender distribution and a histogram for age distribution.
 
-# SkillCraft Data Science Internship - Task 2
+# Task 2 - Data Cleaning & Exploratory Data Analysis
 
 ## Objective
 Perform data cleaning and exploratory data analysis on the Titanic dataset.
@@ -34,7 +34,7 @@ Perform data cleaning and exploratory data analysis on the Titanic dataset.
 ## Conclusion
 Most passengers belonged to the third class, and survival rates varied by class and gender.
 
-# SkillCraft Data Science Internship - Task 3
+# Task 3 - Decision Tree Classification
 
 ## Objective
 Predict whether a customer will purchase a product using a Decision Tree Classifier.
@@ -48,7 +48,7 @@ Decision Tree Classifier
 ## Accuracy
 Approximately 85–95% (depends on dataset split).
 
-# SkillCraft Data Science Internship - Task 4
+# Task 4 - Traffic Accident Analysis
 
 ## Objective
 Analyze accident data to identify patterns based on weather, road conditions, and time.
